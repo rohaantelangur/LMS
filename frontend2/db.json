@@ -434,5 +434,667 @@
         "video": "YjkRSlTxsZM",
         "tag": "61e924bd9ad44ed5f41a2816"
       }
+  ],
+  "locourses": [
+    {
+      "src": "https://asset-cdn.learnyst.com/assets/schools/2410/courses/114900/1_sy1pe.png",
+      "coures_name": "NextJS Full stack crash course",
+      "lessons": "15 lessons",
+      "decription": "Learn Nextjs by building a full stack application with mongodb",
+      "isfree": "free",
+      "offerprices": "",
+      "prices": "",
+      "css-ciw0nx": ""
+    },
+    {
+      "src": "https://asset-cdn.learnyst.com/assets/schools/2410/courses/110784/backend_v3xr64.png",
+      "coures_name": "Pro Backend Developer course",
+      "lessons": "155 lessons • 2 Trials",
+      "decription": "Pro for a reason. Learn to build complex backend that can be used for any web or mobile application. Your REST API will be in production with docs, social logins, images, authentications, mails and more. This is a true Pro backend course",
+      "isfree": "",
+      "offerprices": "₹399",
+      "prices": "₹2,999",
+      "css-ciw0nx": "87% OFF"
+    },
+    {
+      "src": "https://asset-cdn.learnyst.com/assets/schools/2410/courses/108783/default_a9xvq.png",
+      "coures_name": "Go with Golang",
+      "lessons": "58 lessons",
+      "decription": "Learn golang and build APIs with mongoDB",
+      "isfree": "free",
+      "offerprices": "",
+      "prices": "",
+      "css-ciw0nx": ""
+    },
+    {
+      "src": "https://asset-cdn.learnyst.com/assets/schools/2410/courses/98736/aws_czaz28.png",
+      "coures_name": "AWS Architect for real world",
+      "lessons": "171 lessons • 3 Trials",
+      "decription": "A course focused on real-world implementation of AWS services as an architect. Of course, AWS exam content is covered too but the focus is mainly on real-world usage.",
+      "isfree": "",
+      "offerprices": "₹299",
+      "prices": "₹1,299",
+      "css-ciw0nx": "77% OFF"
+    },
+    {
+      "src": "https://asset-cdn.learnyst.com/assets/schools/2410/courses/101710/socket_kco9c.png",
+      "coures_name": "Socket io Crash course",
+      "lessons": "3 lessons",
+      "decription": "Learn about the basics of Socket io. Building chat room wit NodeJS, express, socket ios and react in front end",
+      "isfree": "free",
+      "offerprices": "",
+      "prices": "",
+      "css-ciw0nx": ""
+    },
+    {
+      "src": "https://asset-cdn.learnyst.com/assets/schools/2410/courses/98072/webdev_dn566x.png",
+      "coures_name": "HTML and CSS for modern web development",
+      "lessons": "60 lessons",
+      "decription": "Learn web development basics with HTML and CSS. Absolutely for beginner-friendly course.",
+      "isfree": "",
+      "offerprices": "₹299",
+      "prices": "₹799",
+      "css-ciw0nx": "63% OFF"
+    },
+    {
+      "src": "https://asset-cdn.learnyst.com/assets/schools/2410/courses/92815/fastify_fcn7p.png",
+      "coures_name": "Fastify Crash Course",
+      "lessons": "7 lessons",
+      "decription": "Learn to build REST API with node, fastify and mongoDB",
+      "isfree": "free",
+      "offerprices": "",
+      "prices": "",
+      "css-ciw0nx": ""
+    },
+    {
+      "src": "https://asset-cdn.learnyst.com/assets/schools/2410/courses/92665/vue_course_lu39t.png",
+      "coures_name": "Complete VueJS developer course - Vue3",
+      "lessons": "67 lessons",
+      "decription": "Latest vue 3, router, vuex, and all related topics with projects that can be used in portfolios. No prior experience of the older vue version is required.",
+      "isfree": "",
+      "offerprices": "₹299",
+      "prices": "₹899",
+      "css-ciw0nx": "67% OFF"
+    },
+    {
+      "src": "https://asset-cdn.learnyst.com/assets/schools/2410/courses/87974/aws_waoa34.png",
+      "coures_name": "AWS Serverless",
+      "lessons": "17 lessons",
+      "decription": "Want to get started with AWS, this is a perfect course to start with. Only programming knowledge required is basics of Javascript. AWS prior knowledge is not required but you will need an AWS account",
+      "isfree": "free",
+      "offerprices": "",
+      "prices": "",
+      "css-ciw0nx": ""
+    },
+    {
+      "src": "https://asset-cdn.learnyst.com/assets/schools/2410/courses/86241/django_ca695a.png",
+      "coures_name": "FullStack Django Developer - Freelance ready",
+      "lessons": "70 lessons • 2 Trials",
+      "decription": "Let's design a youtuber marketplace using python, Django and Postgresql. It's fun and in-depth course about from idea to final product",
+      "isfree": "",
+      "offerprices": "₹299",
+      "prices": "₹899",
+      "css-ciw0nx": "67% OFF"
+    },
+    {
+      "src": "https://asset-cdn.learnyst.com/assets/schools/2410/courses/85055/gra_dwukw9.png",
+      "coures_name": "GraphQL Crash course",
+      "lessons": "2 lessons",
+      "decription": "A crash course on GraphQL",
+      "isfree": "free",
+      "offerprices": "",
+      "prices": "",
+      "css-ciw0nx": ""
+    },
+    {
+      "src": "https://asset-cdn.learnyst.com/assets/schools/2410/courses/82228/rn20_fg9wxu.png",
+      "coures_name": "Complete React Native Mobile App developer - Build 10 apps",
+      "lessons": "107 lessons • 2 Trials",
+      "decription": "Learn to build 10 mobile apps using React native. Learn about components, hooks, state, props, firebase, local storage, API handling and finally build an Instagram clone along with 9 other apps.",
+      "isfree": "",
+      "offerprices": "₹299",
+      "prices": "₹2,999",
+      "css-ciw0nx": "90% OFF"
+    },
+    {
+      "src": "https://asset-cdn.learnyst.com/assets/schools/2410/courses/76858/InterViewPrep_k4i9wx.png",
+      "coures_name": "Cracking the Tech Interview",
+      "lessons": "195 lessons • 3 Trials",
+      "decription": "Speed up your Tech interview process with easy to understand explanations of popular questions. Includes non tech preparation, aptitude preparation and of course, lots of tech questions and their explanations. Code files are included.",
+      "isfree": "",
+      "offerprices": "₹999",
+      "prices": "₹3,999",
+      "css-ciw0nx": "75% OFF"
+    },
+    {
+      "src": "https://asset-cdn.learnyst.com/assets/schools/2410/courses/75112/mysql_lco_2_wrm5kp.png",
+      "coures_name": "Mysql Bootcamp for beginners",
+      "lessons": "68 lessons • 2 Trials",
+      "decription": "A complete and in depth course on MySQL.",
+      "isfree": "",
+      "offerprices": "₹299",
+      "prices": "₹899",
+      "css-ciw0nx": "67% OFF"
+    },
+    {
+      "src": "https://asset-cdn.learnyst.com/assets/schools/2410/courses/71676/dj_react_yes1ie.png",
+      "coures_name": "Full stack with Django and React",
+      "lessons": "99 lessons • 3 Trials",
+      "decription": "Create a full stack application with payment gateway integration in Django and react. Course uses Django V3 and modern react with hooks. \nPrerequisite: Basics of Python and JS",
+      "isfree": "",
+      "offerprices": "₹299",
+      "prices": "₹799",
+      "css-ciw0nx": "63% OFF"
+    },
+    {
+      "src": "https://asset-cdn.learnyst.com/assets/schools/2410/courses/71841/js_tuicl9.png",
+      "coures_name": "Complete Javascript course",
+      "lessons": "62 lessons",
+      "decription": "Best in quality javascript course that covers Javascript in depth. Understand behind the scene and inner working of JS in a fun to learn style of coding.",
+      "isfree": "free",
+      "offerprices": "",
+      "prices": "",
+      "css-ciw0nx": ""
+    },
+    {
+      "src": "https://asset-cdn.learnyst.com/assets/schools/2410/courses/68006/vue_8inzb.png",
+      "coures_name": "Vue JS crash course",
+      "lessons": "8 lessons",
+      "decription": "A crash course on Vue with code files",
+      "isfree": "free",
+      "offerprices": "",
+      "prices": "",
+      "css-ciw0nx": ""
+    },
+    {
+      "src": "https://d29xdxvhssor07.cloudfront.net/assets/schools/2410/courses/63685/angular_9q5mqo.png",
+      "coures_name": "Complete Angular Developer Bootcamp",
+      "lessons": "129 lessons • 3 Trials",
+      "decription": "A course that will make you a complete Angular developer with amazing projects for your portfolio. Includes Typescript, RxJs and 10 Projects",
+      "isfree": "",
+      "offerprices": "₹299",
+      "prices": "₹799",
+      "css-ciw0nx": "63% OFF"
+    },
+    {
+      "src": "https://d29xdxvhssor07.cloudfront.net/assets/schools/2410/courses/60028/ioslco_71zjsj.png",
+      "coures_name": "iOS 13 Swift UI Crash Course",
+      "lessons": "1 lesson",
+      "decription": "A free course on iOS SwiftUI that will help you to build a small application. Free courses are community supported in discussion section. Only paid courses comes with LCO team support",
+      "isfree": "free",
+      "offerprices": "",
+      "prices": "",
+      "css-ciw0nx": ""
+    },
+    {
+      "src": "https://d29xdxvhssor07.cloudfront.net/assets/schools/2410/courses/57416/c_4u14ui.png",
+      "coures_name": "C++ Bootcamp",
+      "lessons": "100 lessons • 3 Trials",
+      "decription": "Ultimate modern c++ Bootcamp. A modern approach to understand C++",
+      "isfree": "",
+      "offerprices": "₹399",
+      "prices": "₹999",
+      "css-ciw0nx": "60% OFF"
+    },
+    {
+      "src": "https://d29xdxvhssor07.cloudfront.net/assets/schools/2410/courses/56958/mcss_qf3bqc.png",
+      "coures_name": "Materialize CSS crash course",
+      "lessons": "10 lessons",
+      "decription": "Understand Materialize CSS to speed up your web development process. Very less CSS and amazing designs",
+      "isfree": "free",
+      "offerprices": "",
+      "prices": "",
+      "css-ciw0nx": ""
+    },
+    {
+      "src": "https://d29xdxvhssor07.cloudfront.net/assets/schools/2410/courses/53635/reactimage_fq7uz.png",
+      "coures_name": "Complete ReactJS developer Bootcamp",
+      "lessons": "118 lessons • 2 Trials",
+      "decription": "A complete beginner-friendly course on Reactjs. This course includes modern react with Hooks, Context API, redux, local storage, firebase and lots of projects that you can use in your portfolio.",
+      "isfree": "",
+      "offerprices": "₹299",
+      "prices": "₹2,999",
+      "css-ciw0nx": "90% OFF"
+    },
+    {
+      "src": "https://d29xdxvhssor07.cloudfront.net/assets/schools/2410/courses/50332/MERN_fullstack_ohy5p7.png",
+      "coures_name": "Full Stack MERN Bootcamp",
+      "lessons": "158 lessons • 6 Trials",
+      "decription": "This is just 1 exception course at this price but for LIMITED TIME. This is a perfect portfolio project course where you will build an e-commerce store with 2 payment gateway integration. We will use mongo, Express, React and NodeJs",
+      "isfree": "",
+      "offerprices": "₹299",
+      "prices": "₹999",
+      "css-ciw0nx": "70% OFF"
+    },
+    {
+      "src": "https://d29xdxvhssor07.cloudfront.net/assets/schools/2410/courses/51682/stripe_crashcourse_4t8y9.png",
+      "coures_name": "Stripe with react and Node crash course",
+      "lessons": "1 lesson",
+      "decription": "A course to teach you about stripe integration in react app and node as backend",
+      "isfree": "free",
+      "offerprices": "",
+      "prices": "",
+      "css-ciw0nx": ""
+    },
+    {
+      "src": "https://d29xdxvhssor07.cloudfront.net/assets/schools/2410/courses/50820/a_mk13za.png",
+      "coures_name": "Golang Bootcamp | Ongoing...",
+      "lessons": "13 lessons",
+      "decription": "A series on golang | Go programming language. Expect 2 videos a week or little more, depends on time.",
+      "isfree": "free",
+      "offerprices": "",
+      "prices": "",
+      "css-ciw0nx": ""
+    },
+    {
+      "src": "https://d29xdxvhssor07.cloudfront.net/assets/schools/2410/courses/49488/a_yzpdgj.png",
+      "coures_name": "Docker basics for beginners",
+      "lessons": "47 lessons",
+      "decription": "Learn basics for docker, AWS and Travis CI",
+      "isfree": "",
+      "offerprices": "₹249",
+      "prices": "₹699",
+      "css-ciw0nx": "64% OFF"
+    },
+    {
+      "src": "https://d29xdxvhssor07.cloudfront.net/assets/schools/2410/courses/48397/a1_kd55vo.png",
+      "coures_name": "Python Crash Course",
+      "lessons": "1 lesson",
+      "decription": "A free course to understand python",
+      "isfree": "free",
+      "offerprices": "",
+      "prices": "",
+      "css-ciw0nx": ""
+    },
+    {
+      "src": "https://d29xdxvhssor07.cloudfront.net/assets/schools/2410/courses/40411/py_548gxj.png",
+      "coures_name": "Mastering Data Structure and Algorithm with Python",
+      "lessons": "123 lessons • 3 Trials",
+      "decription": "Understand the data structure and algorithm concepts. Complete theory and code included. All code in this course uses Python programming language.",
+      "isfree": "",
+      "offerprices": "₹1,999",
+      "prices": "₹10,000",
+      "css-ciw0nx": "80% OFF"
+    },
+    {
+      "src": "https://d29xdxvhssor07.cloudfront.net/assets/schools/2410/courses/45318/java_tk5ge.png",
+      "coures_name": "Mastering Data Structure and Algorithm with Java",
+      "lessons": "123 lessons • 3 Trials",
+      "decription": "Understand the data structure and algorithm concepts. Complete theory and code included. All code in this course uses Java programming language.",
+      "isfree": "",
+      "offerprices": "₹1,999",
+      "prices": "₹10,000",
+      "css-ciw0nx": "80% OFF"
+    },
+    {
+      "src": "https://d29xdxvhssor07.cloudfront.net/assets/schools/2410/courses/45321/cpp_05478k.png",
+      "coures_name": "Mastering Data Structure and Algorithm with Cpp",
+      "lessons": "119 lessons • 3 Trials",
+      "decription": "Understand the data structure and algorithm concepts. Complete theory and code included. All code in this course uses C++ programming language.",
+      "isfree": "",
+      "offerprices": "₹1,999",
+      "prices": "₹10,000",
+      "css-ciw0nx": "80% OFF"
+    },
+    {
+      "src": "https://d29xdxvhssor07.cloudfront.net/assets/schools/2410/courses/43760/111_rqwdek.png",
+      "coures_name": "Angular Crash Course",
+      "lessons": "2 lessons",
+      "decription": "A Free crash course for Angular",
+      "isfree": "free",
+      "offerprices": "",
+      "prices": "",
+      "css-ciw0nx": ""
+    },
+    {
+      "src": "https://d29xdxvhssor07.cloudfront.net/assets/schools/2410/courses/42641/ReactJS_vq9u0r.png",
+      "coures_name": "ReactJS Crash Course",
+      "lessons": "2 lessons",
+      "decription": "A short course to quickly get started with ReactJS",
+      "isfree": "free",
+      "offerprices": "",
+      "prices": "",
+      "css-ciw0nx": ""
+    },
+    {
+      "src": "https://d29xdxvhssor07.cloudfront.net/assets/schools/2410/courses/40777/cp_laiohp.png",
+      "coures_name": "Competitive Programming - Beginners C++ challenges",
+      "lessons": "62 lessons",
+      "decription": "Before you get started with tough challenges, go with these small ones.",
+      "isfree": "free",
+      "offerprices": "",
+      "prices": "",
+      "css-ciw0nx": ""
+    },
+    {
+      "src": "https://d29xdxvhssor07.cloudfront.net/assets/schools/2410/courses/40299/py_tfyr29.png",
+      "coures_name": "Competitive Programming - Beginners Python challenges",
+      "lessons": "62 lessons",
+      "decription": "Before you get started with tough challenges, go with these small ones.",
+      "isfree": "free",
+      "offerprices": "",
+      "prices": "",
+      "css-ciw0nx": ""
+    },
+    {
+      "src": "https://d29xdxvhssor07.cloudfront.net/assets/schools/2410/courses/38205/j_xaa4ns.png",
+      "coures_name": "Competitive Programming - Beginners Java challenges",
+      "lessons": "62 lessons",
+      "decription": "Get confidence in competitive programming by taking these challenges. We will also give you a solution, every next day.",
+      "isfree": "free",
+      "offerprices": "",
+      "prices": "",
+      "css-ciw0nx": ""
+    },
+    {
+      "src": "https://d29xdxvhssor07.cloudfront.net/assets/schools/2410/courses/12062/py3_gxzvk.png",
+      "coures_name": "Python 3, from scratch to pro",
+      "lessons": "68 lessons",
+      "decription": "Learn python be prepared for future!",
+      "isfree": "",
+      "offerprices": "₹699",
+      "prices": "₹9,000",
+      "css-ciw0nx": "92% OFF"
+    },
+    {
+      "src": "https://d29xdxvhssor07.cloudfront.net/assets/schools/2410/courses/39259/e_rj2b94.png",
+      "coures_name": "Build an E-Commerce with ReactJS",
+      "lessons": "31 lessons",
+      "decription": "Learn to build an e-commerce website using modern tools like react, Gatsby, contentful and Netlify",
+      "isfree": "free",
+      "offerprices": "",
+      "prices": "",
+      "css-ciw0nx": ""
+    },
+    {
+      "src": "https://d29xdxvhssor07.cloudfront.net/assets/schools/2410/courses/36624/flutterLCO_38x7hj.png",
+      "coures_name": "Complete Flutter course - iOS Android Apps",
+      "lessons": "127 lessons • 3 Trials",
+      "decription": "Build amazing Android and iOS apps using Flutter framework",
+      "isfree": "",
+      "offerprices": "₹799",
+      "prices": "₹10,000",
+      "css-ciw0nx": "92% OFF"
+    },
+    {
+      "src": "https://d29xdxvhssor07.cloudfront.net/assets/schools/2410/courses/36616/mongo_ldpa6t.png",
+      "coures_name": "Learn MongoDB basics",
+      "lessons": "36 lessons",
+      "decription": "Learn the basics of MongoDB for FREE",
+      "isfree": "free",
+      "offerprices": "",
+      "prices": "",
+      "css-ciw0nx": ""
+    },
+    {
+      "src": "https://d29xdxvhssor07.cloudfront.net/assets/schools/2410/courses/35916/dart_4i3bd5.png",
+      "coures_name": "Dart Programming Language",
+      "lessons": "42 lessons • 2 Trials",
+      "decription": "A course to understand Dart in depth",
+      "isfree": "",
+      "offerprices": "₹599",
+      "prices": "₹5,000",
+      "css-ciw0nx": "88% OFF"
+    },
+    {
+      "src": "https://d29xdxvhssor07.cloudfront.net/assets/schools/2410/courses/31314/bs4_e5uhty.png",
+      "coures_name": "Complete Bootstrap 4 - Build 5 modern projects",
+      "lessons": "75 lessons • 2 Trials",
+      "decription": "A complete bootstrap course with 5 modern projects",
+      "isfree": "",
+      "offerprices": "₹799",
+      "prices": "₹10,000",
+      "css-ciw0nx": "92% OFF"
+    },
+    {
+      "src": "https://d29xdxvhssor07.cloudfront.net/assets/schools/2410/courses/32520/cc_ukurhj.png",
+      "coures_name": "Coding challenges and solutions",
+      "lessons": "9 lessons",
+      "decription": "A collection of challenges and solutions hosted at youtube channel",
+      "isfree": "free",
+      "offerprices": "",
+      "prices": "",
+      "css-ciw0nx": ""
+    },
+    {
+      "src": "https://d29xdxvhssor07.cloudfront.net/assets/schools/2410/courses/30471/sass_r3zzn.png",
+      "coures_name": "Learn SASS - Make CSS powerful",
+      "lessons": "6 lessons",
+      "decription": "CSS on steriods",
+      "isfree": "free",
+      "offerprices": "",
+      "prices": "",
+      "css-ciw0nx": ""
+    },
+    {
+      "src": "https://d29xdxvhssor07.cloudfront.net/assets/schools/2410/courses/27376/ap_4fgj1e.png",
+      "coures_name": "Android P with Machine learning Apps - 26+ projects in total",
+      "lessons": "126 lessons • 4 Trials",
+      "decription": "Master Android development with latest tech stack like Firebase, Sqlite, Machine Learning Kit etc",
+      "isfree": "",
+      "offerprices": "₹999",
+      "prices": "₹10,000",
+      "css-ciw0nx": "90% OFF"
+    },
+    {
+      "src": "https://d29xdxvhssor07.cloudfront.net/assets/schools/2410/courses/27357/flutter_tc3wf.png",
+      "coures_name": "Flutter and Dart course - Old videos",
+      "lessons": "15 lessons",
+      "decription": "Learn flutter for modern mobile app development",
+      "isfree": "free",
+      "offerprices": "",
+      "prices": "",
+      "css-ciw0nx": ""
+    },
+    {
+      "src": "https://d29xdxvhssor07.cloudfront.net/assets/schools/2410/courses/28454/alQ_4ao1a.png",
+      "coures_name": "Aptitude and logical reasoning",
+      "lessons": "2 lessons",
+      "decription": "Step 1 for preparing of placements",
+      "isfree": "free",
+      "offerprices": "",
+      "prices": "",
+      "css-ciw0nx": ""
+    },
+    {
+      "src": "https://d29xdxvhssor07.cloudfront.net/assets/schools/2410/courses/27621/javaQ_jeq2c.png",
+      "coures_name": "Java coding interview preparation Mock Test - Lite version",
+      "lessons": "2 lessons",
+      "decription": "A lite version of the mock test to evaluate your Java and DSA skills for upcoming interviews.",
+      "isfree": "free",
+      "offerprices": "",
+      "prices": "",
+      "css-ciw0nx": ""
+    },
+    {
+      "src": "https://d29xdxvhssor07.cloudfront.net/assets/schools/2410/courses/24027/git_ls82fb.png",
+      "coures_name": "Complete GIT and GitHub course",
+      "lessons": "45 lessons • 2 Trials",
+      "decription": "Early bird access - Pricing will change after few days. Grab it now!",
+      "isfree": "",
+      "offerprices": "₹799",
+      "prices": "₹14,000",
+      "css-ciw0nx": "94% OFF"
+    },
+    {
+      "src": "https://d29xdxvhssor07.cloudfront.net/assets/schools/2410/courses/23916/cocopods_7mgggf.png",
+      "coures_name": "Publishing custom Cocoapods",
+      "lessons": "7 lessons",
+      "decription": "Learn to publish your own custom cocoapods",
+      "isfree": "free",
+      "offerprices": "",
+      "prices": "",
+      "css-ciw0nx": ""
+    },
+    {
+      "src": "https://d29xdxvhssor07.cloudfront.net/assets/schools/2410/courses/23129/nodejs_ak3v6u.png",
+      "coures_name": "Complete Backend development with NodeJS",
+      "lessons": "140 lessons • 2 Trials",
+      "decription": "Master NodeJS and build a presentable portfolio with this course",
+      "isfree": "",
+      "offerprices": "₹899",
+      "prices": "₹14,000",
+      "css-ciw0nx": "94% OFF"
+    },
+    {
+      "src": "https://d29xdxvhssor07.cloudfront.net/assets/schools/2410/courses/20812/js_h086z.png",
+      "coures_name": "Javascript for web developer",
+      "lessons": "50 lessons",
+      "decription": "This course is also available on youtube but here it is more organized",
+      "isfree": "free",
+      "offerprices": "",
+      "prices": "",
+      "css-ciw0nx": ""
+    },
+    {
+      "src": "https://d29xdxvhssor07.cloudfront.net/assets/schools/2410/courses/18055/dsml_gqarid.png",
+      "coures_name": "Machine Learning and Data Science Bootcamp",
+      "lessons": "92 lessons • 3 Trials",
+      "decription": "An easy way to get started with Data Science and Machine Learning",
+      "isfree": "",
+      "offerprices": "₹2,499",
+      "prices": "₹15,000",
+      "css-ciw0nx": "83% OFF"
+    },
+    {
+      "src": "https://d29xdxvhssor07.cloudfront.net/assets/schools/2410/courses/17379/django_1xzcg.png",
+      "coures_name": "BackEnd web development with Django - Build 8 projects",
+      "lessons": "47 lessons • 2 Trials",
+      "decription": "Master Django by building a presentable portfolio.",
+      "isfree": "",
+      "offerprices": "₹899",
+      "prices": "₹10,000",
+      "css-ciw0nx": "91% OFF"
+    },
+    {
+      "src": "https://d29xdxvhssor07.cloudfront.net/assets/schools/2410/courses/11931/frontend_od7cue.png",
+      "coures_name": "The Complete front end web developer Bootcamp - 14 projects",
+      "lessons": "135 lessons • 1 Trial",
+      "decription": "A nice place to get started for Web development.",
+      "isfree": "",
+      "offerprices": "₹1,199",
+      "prices": "₹13,000",
+      "css-ciw0nx": "91% OFF"
+    },
+    {
+      "src": "https://d29xdxvhssor07.cloudfront.net/assets/schools/2410/courses/16452/rnfront_rtgbqj.png",
+      "coures_name": "React Native Design - Build front end of 10 Android iOS Apps",
+      "lessons": "50 lessons • 3 Trials",
+      "decription": "A course to enhance the skill of designing  React native apps",
+      "isfree": "",
+      "offerprices": "₹799",
+      "prices": "₹10,000",
+      "css-ciw0nx": "92% OFF"
+    },
+    {
+      "src": "https://d29xdxvhssor07.cloudfront.net/assets/schools/2410/courses/15609/chatApp_s5rfou.png",
+      "coures_name": "Build an Android Chat App with Firebase",
+      "lessons": "41 lessons • 1 Trial",
+      "decription": "Non-Indian Users can purchase courses via our apps. Once purchased in-app, course is available on the web, iOS, and Android in your account.\nSearch in store for - LearnCodeOnline",
+      "isfree": "",
+      "offerprices": "₹899",
+      "prices": "₹5,000",
+      "css-ciw0nx": "82% OFF"
+    },
+    {
+      "src": "https://d29xdxvhssor07.cloudfront.net/assets/schools/2410/courses/19825/sketch_p2wx3k.png",
+      "coures_name": "Sketch - Fun with icons",
+      "lessons": "7 lessons",
+      "decription": "We will be designing some icons and logos in this course with Sketchapp. That's it.",
+      "isfree": "free",
+      "offerprices": "",
+      "prices": "",
+      "css-ciw0nx": ""
+    },
+    {
+      "src": "https://d29xdxvhssor07.cloudfront.net/assets/schools/2410/courses/14120/javaB_48uj9q.png",
+      "coures_name": "Complete Java Bootcamp for beginners",
+      "lessons": "85 lessons • 2 Trials",
+      "decription": "Non-Indian Users can purchase courses via our apps. Once purchased in-app, course is available on the web, iOS, and Android in your account.\nSearch in store for - LearnCodeOnline",
+      "isfree": "",
+      "offerprices": "₹899",
+      "prices": "₹8,000",
+      "css-ciw0nx": "89% OFF"
+    },
+    {
+      "src": "https://d29xdxvhssor07.cloudfront.net/assets/schools/2410/courses/13128/11_mcm3s.png",
+      "coures_name": "Complete iOS 11 developer Bootcamp",
+      "lessons": "134 lessons • 4 Trials",
+      "decription": "Learn to make iOS 11 apps in swift 4 - Covers coredata, realm, firebase, HIG, machine learning, Json, API and lot more",
+      "isfree": "",
+      "offerprices": "₹799",
+      "prices": "₹12,000",
+      "css-ciw0nx": "93% OFF"
+    },
+    {
+      "src": "https://d29xdxvhssor07.cloudfront.net/assets/schools/2410/courses/12321/emmet_lco_b7hs5b.png",
+      "coures_name": "Write quicker HTML5 and CSS 3; productivity hacks with emmet",
+      "lessons": "14 lessons",
+      "decription": "Change the way to write HTML 5 and CSS 3 codes. A faster way that will increase your productivity to write codes",
+      "isfree": "free",
+      "offerprices": "",
+      "prices": "",
+      "css-ciw0nx": ""
+    },
+    {
+      "src": "https://d29xdxvhssor07.cloudfront.net/assets/schools/2410/courses/12201/b4_cif0n9.png",
+      "coures_name": "Complete Bootstrap 4 course - build 3 projects",
+      "lessons": "35 lessons",
+      "decription": "A complete Bootstrap 4 course for beginners. Master Bootstrap 4 basics with 3 projects",
+      "isfree": "free",
+      "offerprices": "",
+      "prices": "",
+      "css-ciw0nx": ""
+    },
+    {
+      "src": "https://d29xdxvhssor07.cloudfront.net/assets/schools/2410/courses/12171/kotlin_xhru0z.png",
+      "coures_name": "Learn Kotlin and be ready for modern Android development",
+      "lessons": "45 lessons • 2 Trials",
+      "decription": "Learn kotlin programming language from scratch and make 2 basic Android apps on kotlin.",
+      "isfree": "",
+      "offerprices": "₹799",
+      "prices": "₹7,000",
+      "css-ciw0nx": "89% OFF"
+    },
+    {
+      "src": "https://d29xdxvhssor07.cloudfront.net/assets/schools/2410/courses/12147/php_tg5wpw.png",
+      "coures_name": "PHP super series from scratch. Learn with projects",
+      "lessons": "61 lessons • 3 Trials",
+      "decription": "Learn to write your first code in php and create massive online projects.",
+      "isfree": "",
+      "offerprices": "₹799",
+      "prices": "₹10,000",
+      "css-ciw0nx": "92% OFF"
+    },
+    {
+      "src": "https://d29xdxvhssor07.cloudfront.net/assets/schools/2410/courses/12137/c_rt9kt.png",
+      "coures_name": "Learn C as your first programming language",
+      "lessons": "62 lessons • 2 Trials",
+      "decription": "MAC or Windows, NO Problem at all. Just practice with us in building command line applications along with course",
+      "isfree": "",
+      "offerprices": "₹599",
+      "prices": "₹5,000",
+      "css-ciw0nx": "88% OFF"
+    },
+    {
+      "src": "https://d29xdxvhssor07.cloudfront.net/assets/schools/2410/courses/12064/hacker_1569744_1920_oa32pp.jpg",
+      "coures_name": "Web Application penetration testing and Bug Bounty Course",
+      "lessons": "49 lessons",
+      "decription": "Complete Ethical hacking and penetration testing guide to make sure that your web application is secure",
+      "isfree": "",
+      "offerprices": "₹999",
+      "prices": "₹8,000",
+      "css-ciw0nx": "88% OFF"
+    },
+    {
+      "src": "https://d29xdxvhssor07.cloudfront.net/assets/schools/2410/courses/12022/computer_1591018_1920_5u7jm.jpg",
+      "coures_name": "Complete Penetration Testing and Ethical hacking Bootcamp",
+      "lessons": "67 lessons • 2 Trials",
+      "decription": "Get started from scratch and become job ready penetration Tester. Be an Ethical Hacker and Hunt as a Bug Bounty Hunters",
+      "isfree": "",
+      "offerprices": "₹1,199",
+      "prices": "₹13,000",
+      "css-ciw0nx": "91% OFF"
+    }
   ]
 }
