@@ -23,6 +23,7 @@ import {
   AccordionPanel,
   Accordion,
   Tag,
+  useToast,
 } from "@chakra-ui/react";
 import { FaInstagram, FaTwitter, FaYoutube } from "react-icons/fa";
 import { MdLocalShipping } from "react-icons/md";
@@ -94,18 +95,39 @@ const Lession = [
 const CoursesDetail = () => {
   const [Data, setData] = useState([]);
   const { id } = useParams();
+  const toast = useToast()
   console.log(typeof +id);
 
-  useEffect(() => {
-    axios
-      .get("http://localhost:8080/locourses")
-      .then((result) => {
-        setData(result.data);
-        console.log(result.data);
+  const handleEnroll=()=>{
+    axios.post("http://localhost:8080/enrolled",{...Data[id], isComplate:false})
+    .then((result) => {
+      return toast({
+        title: 'Enroll Successfull.',
+        description: "We've add courses to your Dashboard.",
+        status: 'success',
+        duration: 5000,
+        isClosable: true,
       })
-      .catch((err) => {
-        console.log(err);
-      });
+    })
+    .catch((err) => {
+      console.log(err);
+    });
+
+  }
+
+  const getData =()=>{
+    axios
+    .get("http://localhost:8080/locourses")
+    .then((result) => {
+      setData(result.data);
+      console.log(result.data);
+    })
+    .catch((err) => {
+      console.log(err);
+    });
+  }
+  useEffect(() => {
+    getData()
   }, []);
 
   return (
@@ -120,7 +142,7 @@ const CoursesDetail = () => {
             rounded={"md"}
             alt={"product image"}
             src={Data[id]?.src}
-            fit={"cover"}
+            // fit={"cover"}
             align={"center"}
             w={"100%"}
             h={{ base: "100%", sm: "400px", lg: "500px" }}
@@ -168,9 +190,9 @@ const CoursesDetail = () => {
               </Text>
 
               <Accordion allowToggle>
-                {Lession?.map((item)=>(
+                {Lession?.map((item, index)=>(
 
-                    <AccordionItem>
+                    <AccordionItem key={index}>
                   <h2>
                     <AccordionButton>
                       <Box flex="1" textAlign="left" justifyContent={"space-between"}>
@@ -201,6 +223,7 @@ const CoursesDetail = () => {
             bg={useColorModeValue("gray.900", "gray.50")}
             color={useColorModeValue("white", "gray.900")}
             textTransform={"uppercase"}
+            onClick={handleEnroll}
             _hover={{
               transform: "translateY(2px)",
               boxShadow: "lg",
