@@ -20,6 +20,10 @@ import { useSelector } from "react-redux";
 
 const Dashboard = () => {
   const Data = useSelector((store) => store.AppReducer.courses);
+
+  const HandleDelet=()=>{
+
+  }
   return (
     <Box w="95%" ml="auto">
       <Heading size={"md"} my="15px">
@@ -54,7 +58,7 @@ const Dashboard = () => {
             Active Course
           </Text>
           <Text fontSize={"4xl"} fontWeight="500">
-            0
+            60
           </Text>
         </GridItem>
 
@@ -67,10 +71,10 @@ const Dashboard = () => {
           p="10px"
         >
           <Text fontSize={"lg"} fontWeight="500">
-            Completed Course
+            Published Course
           </Text>
           <Text fontSize={"4xl"} fontWeight="500">
-            0
+            60
           </Text>
         </GridItem>
 
@@ -86,7 +90,7 @@ const Dashboard = () => {
             Total Students
           </Text>
           <Text fontSize={"4xl"} fontWeight="500">
-            0
+            1250
           </Text>
         </GridItem>
 
@@ -102,7 +106,7 @@ const Dashboard = () => {
             Total Course
           </Text>
           <Text fontSize={"4xl"} fontWeight="500">
-            0
+            66
           </Text>
         </GridItem>
 
@@ -118,7 +122,7 @@ const Dashboard = () => {
             Total Earning
           </Text>
           <Text fontSize={"4xl"} fontWeight="500">
-            0
+            $ 995
           </Text>
         </GridItem>
       </SimpleGrid>
