@@ -1,19 +1,23 @@
 import { Box, Img, SimpleGrid, Text } from "@chakra-ui/react";
 import React, { useEffect } from "react";
-import { useState } from "react";
 import axios from "axios"
 import { useNavigate } from "react-router-dom";
+import {useDispatch, useSelector} from 'react-redux'
+import { GETDATA } from "../Redux/App/reducer";
 
 export const LandingPage = () => {
-  const [Data, setData] = useState([])
+  const Data = useSelector((store)=>store.AppReducer.courses)
   const navigate= useNavigate()
+  const dispatch = useDispatch()
+
+
 
 
   useEffect(() => {
     axios.get("http://localhost:8080/locourses")
     .then((result) => {
-      setData(result.data)
-      console.log(result.data);
+      // setData(result.data)
+      dispatch({type:GETDATA, payload:result.data})
     }).catch((err) => {
       console.log(err);
     });

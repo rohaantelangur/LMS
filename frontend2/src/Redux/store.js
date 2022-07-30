@@ -6,6 +6,7 @@ import {
 } from "redux";
 import thunk from "redux-thunk";
 import { reducer as AuthReducer } from "./Auth/reducer";
+import { reducer as AppReducer } from "./App/reducer";
 
 const composeEnhancers =
   typeof window === "object" && window.__REDUX_DEVTOOLS_EXTENSION_COMPOSE__
@@ -16,6 +17,7 @@ const composeEnhancers =
 
 const rootReducer = combineReducers({
   AuthReducer,
+  AppReducer,
 });
 
 export const store = legacy_createStore(

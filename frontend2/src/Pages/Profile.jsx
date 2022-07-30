@@ -92,7 +92,7 @@ const Profile = () => {
 
 
   return (
-    <Box>
+    <Box mb="50px" border={"1px solid"}>
       <Box w="90%" m="auto" my="20px">
         <HStack spacing={0} justifyContent={"space-between"}>
           <Box>
@@ -129,7 +129,7 @@ const Profile = () => {
           </Box>
         </HStack>
       </Box>
-      <Box w={"92%"} borderTop="1px solid" display="flex" flexWrap={"wrap"} m="auto" spacing={0} h="100vh">
+      <Box w={"92%"} borderTop="1px solid" display="flex" flexWrap={"wrap"} m="auto" spacing={0} >
         {/* Left Side */}
         <Box w={["50%","50%","20%"]} borderRight={"1px solid"} pt="20px" spacing={"10px"}>
           {SideMenu.map((item, index) => (
