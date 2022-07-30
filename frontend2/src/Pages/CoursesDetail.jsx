@@ -206,7 +206,7 @@ const CoursesDetail = () => {
               boxShadow: "lg",
             }}
           >
-            Add to cart
+            Enroll Now
           </Button>
         </Stack>
       </SimpleGrid>

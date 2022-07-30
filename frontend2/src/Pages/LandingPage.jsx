@@ -21,7 +21,7 @@ export const LandingPage = () => {
   }, [])
   
   return(
-  <Box w="90%" m="auto" mt="50px">
+  <Box w="90%" m="auto" my="50px">
 <SimpleGrid minChildWidth='250px' spacing='40px'>
   {Data?.map((item,index)=>(
     <Box bg='tomato'  key={index} p="10px" borderRadius={"5px"}
@@ -32,7 +32,7 @@ export const LandingPage = () => {
     <Text noOfLines={1} fontSize="lg" fontWeight={"600"}>{item.coures_name}</Text>
     <Text noOfLines={1} fontSize="sm">{item.decription}</Text>
     <Text>{item.lessons}</Text>
-    <Text fontWeight={"800"}>{item.isfree===""?item.offerprices:"Free"}</Text>
+    <Text fontWeight={"800"}>Free</Text>
   </Box>
       ))}
 </SimpleGrid>

@@ -18,6 +18,7 @@ import PurchaseHistory from "../Components/PurchaseHistory"
 import EnrolledCourse from "../Components/EnrolledCourse";
 import Navbar from "../Components/Navbar";
 import CoursesDetail from "./CoursesDetail";
+import Footer from "../Components/Footer";
 
 export const MainRoutes = () => {
   return (
@@ -43,6 +44,7 @@ export const MainRoutes = () => {
         <Route path="purchasehistory" element={<PurchaseHistory />} />
         </Route>
       </Routes>
+      <Footer/>
     </div>
   );
 };
